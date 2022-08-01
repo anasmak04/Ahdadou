@@ -10,16 +10,15 @@
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=Ahdadou&show_icons=true&hide_border=true) -->
 <br />
 
-### 📫 How to reach me:
+### Connect with me:
 
-[<img align="left" alt="ibrahim-ahdadou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ibrahim-ahdadou | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ibrahim-ahdadou | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
+[<img align="left" alt="ibrahim-ahdadou | LinkedIn" width="35px" src="https://img.icons8.com/color/48/ffffff/linkedin.png"/>][linkedin]
+[<img align="left" alt="ibrahim-ahdadou | Email" width="35px" src="https://img.icons8.com/fluency/48/ffffff/new-post.png" />][Gmail]
 
 
-[instagram]: https://www.instagram.com/brahim_ahd/
 [linkedin]: https://www.linkedin.com/in/ibrahim-ahdadou/
-[Gmail]: mailto:ibra.ahdadou@gmail.com
+[Gmail]: mailto:ibra.ahdadou@gmail.com 
+
 
 
 
