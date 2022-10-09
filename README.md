@@ -2,7 +2,7 @@
 <!-- I'm a Full Stack Developer from Morocco.
 - 🌱 Learning new tech on my free time -->
 
-- 🌱 I'm currently learning everything that have relation with <strong>Java</strong> ( <strong>JEE</strong>  <img src="https://img.icons8.com/color/24/undefined/java-coffee-cup-logo--v1.png"/> + <strong>Spring boot</strong>  <img src="https://img.icons8.com/color/24/undefined/spring-logo.png"/> )
+- 🌱 I'm currently learning everything that have relation with <strong>Java</strong> ( <strong>JEE</strong>  <img src="https://img.icons8.com/color/24/undefined/java-coffee-cup-logo--v1.png"/> & <strong>Go</strong>  <img src="https://img.icons8.com/color/24/golang.png"/> )
 <!-- <br /> -->
 
 <!-- ### :zap: GitHub Stats -->
